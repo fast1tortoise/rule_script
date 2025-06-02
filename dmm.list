@@ -1,0 +1,34 @@
+# NAME: DMM & JP
+# AUTHOR: fast1tortoise
+DOMAIN-SUFFIX,akabeesoft2.com
+DOMAIN-SUFFIX,akabeesoft3.com
+DOMAIN-SUFFIX,akatsukiworks.com
+DOMAIN-SUFFIX,alicesoft.com
+DOMAIN-SUFFIX,api-p.videomarket.jp
+DOMAIN-SUFFIX,bluekai.com
+DOMAIN-SUFFIX,cosmiccute.com
+DOMAIN-SUFFIX,ddo.jp
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,fout.jp
+DOMAIN-SUFFIX,ladsp.com
+DOMAIN-SUFFIX,socdm.com
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,microad.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,hibiki-site.com
+DOMAIN-SUFFIX,minori.ph
+DOMAIN-SUFFIX,navismithapis-cdn.com
+DOMAIN-SUFFIX,tenco.cc
+DOMAIN-SUFFIX,wheel-soft.com
+DOMAIN-SUFFIX,im-apps.net
+DOMAIN-SUFFIX,gmossp-sp.jp
+DOMAIN-SUFFIX,impact-ad.jp
+DOMAIN-SUFFIX,i-mobile.co.jp
+DOMAIN-SUFFIX,faleno.jp
+DOMAIN,api-p.videomarket.jp
+IP-CIDR,125.6.189.7/32,no-resolve
+IP-CIDR,203.104.209.7/32,no-resolve
